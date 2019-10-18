@@ -1,0 +1,10 @@
+com/ss/week4/dao/PublisherDAO.class
+com/ss/week4/entity/Author.class
+com/ss/week4/entity/Publisher.class
+com/ss/week4/Week4Application.class
+com/ss/week4/controller/AuthorController.class
+com/ss/week4/controller/PublisherController.class
+com/ss/week4/dao/AuthorDAO.class
+com/ss/week4/dao/BookDAO.class
+com/ss/week4/entity/Book.class
+com/ss/week4/controller/BookController.class
